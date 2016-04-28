@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Interrogadoss</string>
+    <string name="app_name">Interrogados</string>
     <string name="mensaje">Cargue los datos de la pregunta</string>
     <string name="boton">Dar de alta la pregunta</string>
     <string name="categoria">Ingrese la categoría</string>
