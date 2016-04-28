@@ -2,7 +2,7 @@ package com.example.proyprueba.proyectoprueba;
 
 //import java.rmi.Remote;
 //import java.rmi.RemoteException;
-// nada cambio
+// nada cambioasd
 import Excepciones.LogicaException;
 import Excepciones.PersistenciaException;
 
